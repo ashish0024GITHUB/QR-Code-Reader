@@ -1,2 +1,2 @@
 # QR-Code-Reader
-QR Code Reader/Scanner
+https://webd-qrcodereader-ash.netlify.app
